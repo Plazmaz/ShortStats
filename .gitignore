@@ -1,0 +1,8 @@
+### Whitelisting instead of blacklisting.
+*
+!src
+!src/*.py
+!*.md
+!requirements.txt
+!.gitignore
+!short_stats.py
